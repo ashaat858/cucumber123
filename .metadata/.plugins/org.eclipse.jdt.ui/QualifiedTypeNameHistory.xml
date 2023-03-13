@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="io.cucumber.java.Before"/>
+<fullyQualifiedTypeName name="pages.BankCashPage"/>
+<fullyQualifiedTypeName name="pages.TestBase"/>
+<fullyQualifiedTypeName name="pages.LoginPage"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+<fullyQualifiedTypeName name="io.cucumber.java.en.Given"/>
+<fullyQualifiedTypeName name="io.cucumber.java.en.When"/>
+<fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="io.cucumber.java.After"/>
+<fullyQualifiedTypeName name="io.cucumber.junit.Cucumber"/>
+<fullyQualifiedTypeName name="io.cucumber.junit.CucumberOptions"/>
+</qualifiedTypeNameHistroy>
